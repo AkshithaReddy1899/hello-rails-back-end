@@ -4,6 +4,9 @@ Hello-rails-react app is a full-stack app that displays a random greeting
 
 ## Description
 This repo has the code to the back-end part of the hello-rails-react app
+
+[link to front-end repo](https://github.com/AkshithaReddy1899/hello-react-front-end)
+
 ## Built With
 
 - Ruby
